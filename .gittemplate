@@ -1,0 +1,19 @@
+Config ".gittemplate" multiline commit -Title 50 |
+
+Descriptions tests
+
+Limit Limit Limit Limit Limit Limit Limit Limit Limit Limit Limit......|
+Max 72 characters + 4 spaces in beginner and at the end = 80...........|
+
+Write always in english
+
+Command direct:
+git add .
+git commit -a --file .gittemplate
+
+Command edit in Vi:
+git add .
+git commit -a -t .gittemplate
+
+_
+Same links
