@@ -1,4 +1,4 @@
 # acl
 [PHP] ACL (Access Control List) 
 
-Componente de ACL com PHP 7
+Component ACL with PHP 7
