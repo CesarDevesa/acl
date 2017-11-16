@@ -1,16 +1,16 @@
 {
-    "name": "wesleywillians/acl",
+    "name": "cesardevesa/acl",
     "license": "MIT",
     "authors": [
         {
-            "name": "Wesley Willians",
-            "email": "wesleywillians@gmail.com"
+            "name": "Cesar Devesa",
+            "email": "devesa.cesar@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "CodeEdu\\Acl\\": "src/"
+            "AppTest\\Acl\\": "src/"
         }
     }
 }
