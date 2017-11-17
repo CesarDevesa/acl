@@ -1,12 +1,17 @@
 {
-    "name": "cesardevesa/acl",
+    "name": "wesleywillians/acl",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Wesley Willians",
+            "email": "wesleywillians@gmail.com"
+        },
         {
             "name": "Cesar Devesa",
             "email": "devesa.cesar@gmail.com"
         }
     ],
+    "description": "Component ACL with PHP 7",
     "require": {},
     "autoload": {
         "psr-4": {
